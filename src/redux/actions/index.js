@@ -1,0 +1,1 @@
+export {loadSomeData} from './someData';
